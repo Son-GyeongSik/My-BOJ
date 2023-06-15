@@ -15,6 +15,7 @@ int main()
     cin>>in[1];
     st1[cnt1]=in[1];
     st2[cnt1]=1;
+
     cnt1++;
     q1[1]=1;
     for(int i=2; i<=n; i++)
